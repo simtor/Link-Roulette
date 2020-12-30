@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/simtor/Link-Roulette/issues"
   },
-  "homepage": "https://github.com/simtor/Link-Roulette#readme"
+  "homepage": "https://github.com/simtor/Link-Roulette#readme",
+  "dependencies": {
+    "open": "^7.3.0"
+  }
 }
