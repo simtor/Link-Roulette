@@ -1,0 +1,19 @@
+{
+  "name": "link-roulette",
+  "version": "1.0.0",
+  "description": "An idea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simtor/Link-Roulette.git"
+  },
+  "author": "Simone Ram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simtor/Link-Roulette/issues"
+  },
+  "homepage": "https://github.com/simtor/Link-Roulette#readme"
+}
