@@ -1,0 +1,1 @@
+//component will be used to selct the link in in the notapad/textpad 
