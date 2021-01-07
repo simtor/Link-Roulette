@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/simtor/Link-Roulette#readme",
   "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
     "open": "^7.3.0"
   }
 }
